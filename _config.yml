@@ -4,7 +4,6 @@ email: your-email@domain.com
 url: https://example.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 skills: "O projeto Juventude Empreendedora visa qualificar 5.000 jovens e adultos alagoanos, de 18 a 39 anos, preferencialmente que já concluíram ou estão concluindo o Ensino Médio e buscam montar o seu próprio negócio. Os cursos serão ministrados via internet, nos laboratórios de informática das escolas e telecentros participantes do projeto, sendo divididos em 5 módulos, cada um de 20h, totalizando 100h de formação. Os participantes do projeto terão a oportunidade de elaborar um plano de negócio e, se selecionados, poderão obter crédito para abrir sua empresa.
-
 * Atenção! Visando abranger um público maior o projeto, que antes era destinado apenas à jovens de 18 a 29 anos, passou a contemplar adultos de 29 a 39 anos. É importante lembrar que até 30% das vagas são destinadas a faixa etária 29 a 39 anos, ou seja, cada turma pode ter até 30% de alunos da faixa etária 29 a 39 anos."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
